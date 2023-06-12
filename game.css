@@ -1,11 +1,1 @@
-.score {
-    position: fixed;
-    top: 0;
-    left: 0;
-    padding: 10px;
-    font-size: 14px;
-    color: firebrick;
-    font-family: sans-serif;
-    pointer-events: none;
-    font-weight: bold;
-}
+.score{position:fixed;top:0;left:0;padding:10px;font-size:14px;color:#fff;font-family:sans-serif;pointer-events:none;font-weight:700}.modal-overlay{position:fixed;inset:0;z-index:10;background:rgba(0,0,0,.3);display:flex;justify-content:center;align-items:center}.modal{padding:20px;background:#fff}
